@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_ChiTietHoaDon_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_ChiTietHoaDon_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" type="xs:int" minOccurs="0" />
+                <xs:element name="MaHang" type="xs:string" minOccurs="0" />
+                <xs:element name="SoHoaDon" type="xs:int" minOccurs="0" />
+                <xs:element name="DonGia" type="xs:int" minOccurs="0" />
+                <xs:element name="SoLuong" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>1</Id>
+    <MaHang>GI001</MaHang>
+    <SoHoaDon>1</SoHoaDon>
+    <DonGia>2500000</DonGia>
+    <SoLuong>2</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>2</Id>
+    <MaHang>GI002</MaHang>
+    <SoHoaDon>2</SoHoaDon>
+    <DonGia>3200000</DonGia>
+    <SoLuong>2</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>3</Id>
+    <MaHang>GI003</MaHang>
+    <SoHoaDon>3</SoHoaDon>
+    <DonGia>1800000</DonGia>
+    <SoLuong>2</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>4</Id>
+    <MaHang>GI005</MaHang>
+    <SoHoaDon>4</SoHoaDon>
+    <DonGia>4500000</DonGia>
+    <SoLuong>1</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+  <_x0027_ChiTietHoaDon_x0027_>
+    <Id>5</Id>
+    <MaHang>GI004</MaHang>
+    <SoHoaDon>5</SoHoaDon>
+    <DonGia>2200000</DonGia>
+    <SoLuong>1</SoLuong>
+  </_x0027_ChiTietHoaDon_x0027_>
+</NewDataSet>

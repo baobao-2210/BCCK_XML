@@ -1,0 +1,325 @@
+D:\linhTinh\XML\qlst\Quanlybangiay\bin\Debug\QuanLySieuThi.exe
+D:\linhTinh\XML\qlst\Quanlybangiay\bin\Debug\QuanLySieuThi.pdb
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.GUI.frmDangNhap.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.GUI.frmDoiMatKhau.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.GUI.frmHang.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.frmMain.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.GUI.frmHoaDon.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.GUI.frmNhaCungCap.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.GUI.frmNhanVien.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.GUI.frmPhieuNhapHang.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.GUI.frmTaiKhoanNV.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.GUI.frmXacNhanDiLam.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.exe
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.pdb
+D:\linhTinh\XML\qlst\Quanlybangiay\obj\x86\Debug\QuanLySieuThi.GUI.frmXemChamCong.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\bin\Debug\QuanLySieuThi.exe
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\bin\Debug\QuanLySieuThi.pdb
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.GUI.frmDangNhap.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.GUI.frmDoiMatKhau.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.GUI.frmHang.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.frmMain.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.GUI.frmHoaDon.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.GUI.frmNhaCungCap.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.GUI.frmNhanVien.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.GUI.frmPhieuNhapHang.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.GUI.frmTaiKhoanNV.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.GUI.frmXacNhanDiLam.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.GUI.frmXemChamCong.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.exe
+C:\Users\PHAN CONG QUOC\Documents\Zalo Received Files\ShoeStore_XML-main (1)\ShoeStore_XML-main\obj\x86\Debug\QuanLySieuThi.pdb
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\QuanLySieuThi.exe.config
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\QuanLySieuThi.exe
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\QuanLySieuThi.pdb
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\QuanLySieuThi.exe
+D:\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\QuanLySieuThi.pdb
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\QuanLySieuThi.exe.config
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\QuanLySieuThi.exe
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\QuanLySieuThi.pdb
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.frmMain.resources
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\QuanLySieuThi.exe
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\QuanLySieuThi.pdb
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PHAN CONG QUOC\Downloads\thidan\ShoeStore_XML-main (1)\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.csproj.CopyComplete
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\QuanLySieuThi.exe.config
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\QuanLySieuThi.exe
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\QuanLySieuThi.pdb
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\BouncyCastle.Cryptography.dll
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\itextsharp.dll
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\BouncyCastle.Cryptography.xml
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\bin\Debug\itextsharp.xml
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\QuanLySieuThi.exe
+D:\OneDrive\OneDrive - công ty một thành viên\Documents\ShoeStore_XML-main (1)\ShoeStore_XML-main3\obj\x86\Debug\QuanLySieuThi.pdb
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\bin\Debug\QuanLySieuThi.exe.config
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\bin\Debug\QuanLySieuThi.exe
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\bin\Debug\QuanLySieuThi.pdb
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\bin\Debug\BouncyCastle.Cryptography.dll
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\bin\Debug\itextsharp.dll
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\bin\Debug\BouncyCastle.Cryptography.xml
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\bin\Debug\itextsharp.xml
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\QuanLySieuThi.exe
+D:\ShoeStore_XML-main (1) (2)\QuanLyBanGiay\obj\x86\Debug\QuanLySieuThi.pdb
+D:\QuanLyBanGiay\bin\Debug\QuanLySieuThi.exe.config
+D:\QuanLyBanGiay\bin\Debug\QuanLySieuThi.exe
+D:\QuanLyBanGiay\bin\Debug\QuanLySieuThi.pdb
+D:\QuanLyBanGiay\bin\Debug\BouncyCastle.Cryptography.dll
+D:\QuanLyBanGiay\bin\Debug\itextsharp.dll
+D:\QuanLyBanGiay\bin\Debug\BouncyCastle.Cryptography.xml
+D:\QuanLyBanGiay\bin\Debug\itextsharp.xml
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\QuanLyBanGiay\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\QuanLyBanGiay\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\QuanLyBanGiay\obj\x86\Debug\QuanLySieuThi.exe
+D:\QuanLyBanGiay\obj\x86\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\bin\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\bin\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\bin\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\bin\Debug\BouncyCastle.Cryptography.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\bin\Debug\itextsharp.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\bin\Debug\BouncyCastle.Cryptography.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\bin\Debug\itextsharp.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy\obj\x86\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\bin\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\bin\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\bin\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\bin\Debug\BouncyCastle.Cryptography.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\bin\Debug\itextsharp.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\bin\Debug\BouncyCastle.Cryptography.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\bin\Debug\itextsharp.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working\obj\x86\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\bin\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\bin\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\bin\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\bin\Debug\BouncyCastle.Cryptography.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\bin\Debug\itextsharp.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\bin\Debug\BouncyCastle.Cryptography.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\bin\Debug\itextsharp.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp\obj\x86\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\bin\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\bin\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\bin\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\bin\Debug\BouncyCastle.Cryptography.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\bin\Debug\itextsharp.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\bin\Debug\BouncyCastle.Cryptography.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\bin\Debug\itextsharp.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp2\obj\x86\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\bin\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\bin\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\bin\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\bin\Debug\BouncyCastle.Cryptography.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\bin\Debug\itextsharp.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\bin\Debug\BouncyCastle.Cryptography.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\bin\Debug\itextsharp.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp4\obj\x86\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\bin\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\bin\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\bin\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\bin\Debug\BouncyCastle.Cryptography.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\bin\Debug\itextsharp.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\bin\Debug\BouncyCastle.Cryptography.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\bin\Debug\itextsharp.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp5\obj\x86\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\bin\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\bin\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\bin\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\bin\Debug\BouncyCastle.Cryptography.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\bin\Debug\itextsharp.dll
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\bin\Debug\BouncyCastle.Cryptography.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\bin\Debug\itextsharp.xml
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\DoAnCuoiKy_Nhom05_QuanLyBanGiay\QuanLyBanGiay_Copy_Working_BackUp6-FixLoiChuyenDoi - NgayThang\obj\x86\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\bin\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\bin\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\bin\Debug\QuanLySieuThi.pdb
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\bin\Debug\BouncyCastle.Cryptography.dll
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\bin\Debug\itextsharp.dll
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\bin\Debug\BouncyCastle.Cryptography.xml
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\bin\Debug\itextsharp.xml
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.csproj.AssemblyReference.cache
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\QuanLySieuThi.exe.config
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.GUI.frmDangNhap.resources
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.GUI.frmHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.frmMain.resources
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.GUI.frmHoaDon.resources
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.GUI.frmNhaCungCap.resources
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.GUI.frmNhanVien.resources
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.GUI.frmPhieuNhapHang.resources
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.GUI.frmTaiKhoanNV.resources
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.csproj.GenerateResource.cache
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlybangiay.csproj.CoreCompileInputs.cache
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\Quanlyba.9162935C.Up2Date
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\QuanLySieuThi.exe
+D:\HocTap\HocOTruong\CongNgheXML\BaoCaoCuoiKy_Nhom05_QuanLyBanGiay\QLBanGiay_Nhom5\obj\x86\Debug\QuanLySieuThi.pdb

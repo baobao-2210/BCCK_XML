@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhanVien_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhanVien_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="NgaySinh" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:int" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>ADMIN</MaNhanVien>
+    <TenNhanVien>Admin User</TenNhanVien>
+    <NgaySinh>01-01-2000</NgaySinh>
+    <DiaChi>HQ</DiaChi>
+    <SDT>1234567890</SDT>
+    <Email>admin@company.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV001</MaNhanVien>
+    <TenNhanVien>Nguyễn Tuân Tín</TenNhanVien>
+    <NgaySinh>15-03-1995</NgaySinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <SDT>912345678</SDT>
+    <Email>tranvanan@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV002</MaNhanVien>
+    <TenNhanVien>Nguyễn Tấn Bảo</TenNhanVien>
+    <NgaySinh>22-07-1998</NgaySinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <SDT>923456789</SDT>
+    <Email>nguyenthibinh@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV003</MaNhanVien>
+    <TenNhanVien>Nguyễn Đình Văn</TenNhanVien>
+    <NgaySinh>08-11-1993</NgaySinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <SDT>934567890</SDT>
+    <Email>leminhcuong@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV004</MaNhanVien>
+    <TenNhanVien>Phạm Thị Dung</TenNhanVien>
+    <NgaySinh>30-05-1996</NgaySinh>
+    <DiaChi>Hải Phòng</DiaChi>
+    <SDT>945678901</SDT>
+    <Email>phamthidung@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV005</MaNhanVien>
+    <TenNhanVien>Hoàng Văn Em</TenNhanVien>
+    <NgaySinh>12-09-1994</NgaySinh>
+    <DiaChi>Cần Thơ</DiaChi>
+    <SDT>956789012</SDT>
+    <Email>hoangvanem@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV006</MaNhanVien>
+    <TenNhanVien>Vũ Thị Phương</TenNhanVien>
+    <NgaySinh>25-12-1994</NgaySinh>
+    <DiaChi>Nghệ An</DiaChi>
+    <SDT>967890123</SDT>
+    <Email>vuthiphuong@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV007</MaNhanVien>
+    <TenNhanVien>Trần Công Kiệt</TenNhanVien>
+    <NgaySinh>15-02-2008</NgaySinh>
+    <DiaChi>Đà Nẵng </DiaChi>
+    <SDT>792514083</SDT>
+    <Email>nguyentin@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV008</MaNhanVien>
+    <TenNhanVien>Nguyễn Tuân Công</TenNhanVien>
+    <NgaySinh>16-12-2024</NgaySinh>
+    <DiaChi>Quảng Nam</DiaChi>
+    <SDT>54652324</SDT>
+    <Email>nguyentin@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+</NewDataSet>

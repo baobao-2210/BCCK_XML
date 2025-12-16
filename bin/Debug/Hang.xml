@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_Hang_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_Hang_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaHang" type="xs:string" minOccurs="0" />
+                <xs:element name="TenHang" type="xs:string" minOccurs="0" />
+                <xs:element name="DonViTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="DonGia" type="xs:int" minOccurs="0" />
+                <xs:element name="SoLuong" type="xs:int" minOccurs="0" />
+                <xs:element name="HinhAnh" type="xs:string" minOccurs="0" />
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_Hang_x0027_>
+    <MaHang>GI001</MaHang>
+    <TenHang>Giày Nike Air Max 270</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>2500000</DonGia>
+    <SoLuong>35</SoLuong>
+    <HinhAnh>D:\QuanLyBanGiay\Resources\giay1.jpg</HinhAnh>
+    <MaNCC>NC001</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>GI002</MaHang>
+    <TenHang>Giày Adidas Ultraboost 22</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>3200000</DonGia>
+    <SoLuong>28</SoLuong>
+    <HinhAnh>D:\QuanLyBanGiay\Resources\giay2.jpg</HinhAnh>
+    <MaNCC>NC001</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>GI003</MaHang>
+    <TenHang>Giày Puma RS-X3</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>1800000</DonGia>
+    <SoLuong>42</SoLuong>
+    <HinhAnh>D:\QuanLyBanGiay\Resources\giay3.jpg</HinhAnh>
+    <MaNCC>NC003</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>GI004</MaHang>
+    <TenHang>Giày New Balance 574 Classic</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>2200000</DonGia>
+    <SoLuong>30</SoLuong>
+    <HinhAnh>D:\QuanLyBanGiay\Resources\giay4.jpg</HinhAnh>
+    <MaNCC>NC002</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>GI005</MaHang>
+    <TenHang>Giày Jordan 1 Retro High</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>4500000</DonGia>
+    <SoLuong>15</SoLuong>
+    <HinhAnh>D:\QuanLyBanGiay\Resources\giay5.jpg</HinhAnh>
+    <MaNCC>NC001</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>GI006</MaHang>
+    <TenHang>Giày Converse Chuck Taylor All Star</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>1200000</DonGia>
+    <SoLuong>50</SoLuong>
+    <HinhAnh>D:\QuanLyBanGiay\Resources\giay6.jpg</HinhAnh>
+    <MaNCC>NC003</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>GI007</MaHang>
+    <TenHang>Giày Vans Old Skool</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>1500000</DonGia>
+    <SoLuong>38</SoLuong>
+    <HinhAnh>D:\QuanLyBanGiay\Resources\giay7.jpg</HinhAnh>
+    <MaNCC>NC004</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>GI008</MaHang>
+    <TenHang>Giày Da Nam Công Sở</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>2800000</DonGia>
+    <SoLuong>25</SoLuong>
+    <HinhAnh>D:\QuanLyBanGiay\Resources\giay8.jpg</HinhAnh>
+    <MaNCC>NC004</MaNCC>
+  </_x0027_Hang_x0027_>
+</NewDataSet>

@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhaCungCap_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhaCungCap_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:int" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+                <xs:element name="MoTa" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC001</MaNCC>
+    <TenNCC>Công ty Giày Thể Thao Việt Nam</TenNCC>
+    <DiaChi>123 Đường Láng, Đống Đa, Hà Nội</DiaChi>
+    <SDT>912345678</SDT>
+    <Email>giaythethao@vn.com</Email>
+    <MoTa>Chuyên cung cấp giày thể thao chính hãng</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC002</MaNCC>
+    <TenNCC>Giày Thời Trang ABC</TenNCC>
+    <DiaChi>456 Nguyễn Trãi, Thanh Xuân, Hà Nội</DiaChi>
+    <SDT>923456789</SDT>
+    <Email>giaythoitrang@abc.com</Email>
+    <MoTa>Giày thời trang cao cấp</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC003</MaNCC>
+    <TenNCC>Thế Giới Giày Xinh</TenNCC>
+    <DiaChi>789 Hoàng Hoa Thám, Ba Đình, Hà Nội</DiaChi>
+    <SDT>934567890</SDT>
+    <Email>thegioigiay@xinh.com</Email>
+    <MoTa>Giày nam nữ đa dạng mẫu mã</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC004</MaNCC>
+    <TenNCC>Giày Da Cao Cấp</TenNCC>
+    <DiaChi>321 Trần Duy Hưng, Cầu Giấy, Hà Nội</DiaChi>
+    <SDT>945678901</SDT>
+    <Email>giayda@caocap.com</Email>
+    <MoTa>Giày da thật nhập khẩu</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC005</MaNCC>
+    <TenNCC>Giày Trẻ Em Happy</TenNCC>
+    <DiaChi>654 Lê Văn Lương, Thanh Xuân, Hà Nội</DiaChi>
+    <SDT>956789012</SDT>
+    <Email>giaytreem@happy.com</Email>
+    <MoTa>Giày trẻ em an toàn, đẹp mắt</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC006</MaNCC>
+    <TenNCC>Giày da</TenNCC>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <SDT>7924124</SDT>
+    <Email>gadf@gmail.com</Email>
+    <MoTa>Giày da</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC007</MaNCC>
+    <TenNCC>Công ty giày bitis</TenNCC>
+    <DiaChi>Việt Nam</DiaChi>
+    <SDT>0756733535</SDT>
+    <Email>nguyent@gmail.com</Email>
+    <MoTa>giày Việt Nam</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+</NewDataSet>
